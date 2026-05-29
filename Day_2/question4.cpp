@@ -23,4 +23,3 @@ else
     }
 return 0;
 }
-// if u use number==n before taking input then it always store garbage value and if u use number==n after while loop then after loop value of n are changing so dont do this shit 
